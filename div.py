@@ -6,3 +6,5 @@ def divi(a,b):
     
 if __name__ == '__main__':
     divi(40,10)
+    
+    ############## we are in div module
